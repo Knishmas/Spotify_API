@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+   
+   
+}
+
+img{
+    height: 100px;
+    padding-top: 20px;
+}
+body{
+   
+}
+
+.main-content{
+    background-color: #1B2430;
+    align-items: center;
+    color: white;
+}
+.parent-container{
+    height: 300px;
+    width: 35%;
+    border-radius: 4px;
+    background-color: #51557E;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    border-color: black;
+    border-width: thick;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+}
+
